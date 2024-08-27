@@ -1,4 +1,4 @@
-# React + Vite
+# Primera entrega curso React JS
 
 Primera entrega del curso React JS de Coderhouse.
 
