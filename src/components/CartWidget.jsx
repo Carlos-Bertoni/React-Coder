@@ -1,8 +1,8 @@
-// src/components/CartWidget.jsx
+// Componente Carrito en src/components/CartWidget.jsx
 import React from 'react';
 
 const CartWidget = () => {
-  const itemCount = 0; // Este valor cambia según los artículos en el carrito
+  const itemCount = 0; // Este valor cambiará según los artículos en el carrito
 
   return (
     <div style={{ display: 'flex', alignItems: 'center' }}>
