@@ -1,6 +1,6 @@
-# Primera entrega curso React JS
+# Segunda entrega curso React JS
 
-Primera entrega del curso React JS de Coderhouse.
+Segunda entrega del curso React JS de Coderhouse.
 
 Currently, two official plugins are available:
 
